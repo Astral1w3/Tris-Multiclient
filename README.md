@@ -42,10 +42,6 @@ Complete implementation of a multi-client Tic-Tac-Toe server in C, compliant wit
 - ✅ **User identification**: Nickname support for each player
 - ✅ **Timeout**: 5-minute move timeout (configurable)
 
-### Optional Requirement
-
-- ✅ **Owner handover**: Included in rematch logic (winner can become owner)
-
 ## Build
 
 ```bash
