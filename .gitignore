@@ -1,0 +1,14 @@
+# Binari
+server
+client
+*.o
+obj/
+*.out
+
+# File di log
+*.log
+
+# File temporanei
+*~
+*.swp
+.DS_Store
