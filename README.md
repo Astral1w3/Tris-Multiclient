@@ -1,6 +1,6 @@
 # Multi-Client Tic-Tac-Toe Server
 
-## How It Works (Visual Scenarios)
+## How It Works
 
 ### 1) Multiple players connected, multiple games in waiting state
 ![Multiple launcher windows with several open games](img/1.png)
